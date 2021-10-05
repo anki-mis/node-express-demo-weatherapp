@@ -1,0 +1,21 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node web-server/src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "joi": "^17.4.1",
+    "postman-request": "^2.88.1-postman.30",
+    "validator": "^13.6.0",
+    "yargs": "^17.0.1"
+  }
+}
