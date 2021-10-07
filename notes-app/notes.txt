@@ -1,0 +1,2 @@
+Writing from node app.js through node to this file.
+Appending from text through appendFileSync function.
