@@ -1,0 +1,3 @@
+[submodule "web-server"]
+	path = web-server
+	url = https://github.com/anki-mis/node-weather-website
